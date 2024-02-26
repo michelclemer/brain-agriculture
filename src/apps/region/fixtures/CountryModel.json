@@ -1,0 +1,2552 @@
+[
+{
+    "model": "region.countrymodel",
+    "pk": 1,
+    "fields": {
+        "pai_nome": "Brazil",
+        "pai_nome_pt": "Brasil",
+        "pai_sigla": "BR",
+        "pai_bacen": 1058
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 2,
+    "fields": {
+        "pai_nome": "Afghanistan",
+        "pai_nome_pt": "Afeganistão",
+        "pai_sigla": "AF",
+        "pai_bacen": 132
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 3,
+    "fields": {
+        "pai_nome": "Albania",
+        "pai_nome_pt": "Albânia, Republica da",
+        "pai_sigla": "AL",
+        "pai_bacen": 175
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 4,
+    "fields": {
+        "pai_nome": "Algeria",
+        "pai_nome_pt": "Argélia",
+        "pai_sigla": "DZ",
+        "pai_bacen": 590
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 5,
+    "fields": {
+        "pai_nome": "American Samoa",
+        "pai_nome_pt": "Samoa Americana",
+        "pai_sigla": "AS",
+        "pai_bacen": 6912
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 6,
+    "fields": {
+        "pai_nome": "Andorra",
+        "pai_nome_pt": "Andorra",
+        "pai_sigla": "AD",
+        "pai_bacen": 370
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 7,
+    "fields": {
+        "pai_nome": "Angola",
+        "pai_nome_pt": "Angola",
+        "pai_sigla": "AO",
+        "pai_bacen": 400
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 8,
+    "fields": {
+        "pai_nome": "Anguilla",
+        "pai_nome_pt": "Anguilla",
+        "pai_sigla": "AI",
+        "pai_bacen": 418
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 9,
+    "fields": {
+        "pai_nome": "Antarctica",
+        "pai_nome_pt": "Antártida",
+        "pai_sigla": "AQ",
+        "pai_bacen": 3596
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 10,
+    "fields": {
+        "pai_nome": "Antigua and Barbuda",
+        "pai_nome_pt": "Antigua e Barbuda",
+        "pai_sigla": "AG",
+        "pai_bacen": 434
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 11,
+    "fields": {
+        "pai_nome": "Argentina",
+        "pai_nome_pt": "Argentina",
+        "pai_sigla": "AR",
+        "pai_bacen": 639
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 12,
+    "fields": {
+        "pai_nome": "Armenia",
+        "pai_nome_pt": "Armênia, Republica da",
+        "pai_sigla": "AM",
+        "pai_bacen": 647
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 13,
+    "fields": {
+        "pai_nome": "Aruba",
+        "pai_nome_pt": "Aruba",
+        "pai_sigla": "AW",
+        "pai_bacen": 655
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 14,
+    "fields": {
+        "pai_nome": "Australia",
+        "pai_nome_pt": "Austrália",
+        "pai_sigla": "AU",
+        "pai_bacen": 698
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 15,
+    "fields": {
+        "pai_nome": "Austria",
+        "pai_nome_pt": "Áustria",
+        "pai_sigla": "AT",
+        "pai_bacen": 728
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 16,
+    "fields": {
+        "pai_nome": "Azerbaijan",
+        "pai_nome_pt": "Azerbaijão, Republica do",
+        "pai_sigla": "AZ",
+        "pai_bacen": 736
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 17,
+    "fields": {
+        "pai_nome": "Bahamas",
+        "pai_nome_pt": "Bahamas, Ilhas",
+        "pai_sigla": "BS",
+        "pai_bacen": 779
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 18,
+    "fields": {
+        "pai_nome": "Bahrain",
+        "pai_nome_pt": "Bahrein, Ilhas",
+        "pai_sigla": "BH",
+        "pai_bacen": 809
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 19,
+    "fields": {
+        "pai_nome": "Bangladesh",
+        "pai_nome_pt": "Bangladesh",
+        "pai_sigla": "BD",
+        "pai_bacen": 817
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 20,
+    "fields": {
+        "pai_nome": "Barbados",
+        "pai_nome_pt": "Barbados",
+        "pai_sigla": "BB",
+        "pai_bacen": 833
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 21,
+    "fields": {
+        "pai_nome": "Belarus",
+        "pai_nome_pt": "Belarus, Republica da",
+        "pai_sigla": "BY",
+        "pai_bacen": 850
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 22,
+    "fields": {
+        "pai_nome": "Belgium",
+        "pai_nome_pt": "Bélgica",
+        "pai_sigla": "BE",
+        "pai_bacen": 876
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 23,
+    "fields": {
+        "pai_nome": "Belize",
+        "pai_nome_pt": "Belize",
+        "pai_sigla": "BZ",
+        "pai_bacen": 884
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 24,
+    "fields": {
+        "pai_nome": "Benin",
+        "pai_nome_pt": "Benin",
+        "pai_sigla": "BJ",
+        "pai_bacen": 2291
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 25,
+    "fields": {
+        "pai_nome": "Bermuda",
+        "pai_nome_pt": "Bermudas",
+        "pai_sigla": "BM",
+        "pai_bacen": 906
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 26,
+    "fields": {
+        "pai_nome": "Bhutan",
+        "pai_nome_pt": "Butão",
+        "pai_sigla": "BT",
+        "pai_bacen": 1198
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 27,
+    "fields": {
+        "pai_nome": "Bolivia",
+        "pai_nome_pt": "Bolívia",
+        "pai_sigla": "BO",
+        "pai_bacen": 973
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 28,
+    "fields": {
+        "pai_nome": "Bosnia and Herzegowina",
+        "pai_nome_pt": "Bósnia-herzegovina (Republica da)",
+        "pai_sigla": "BA",
+        "pai_bacen": 981
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 29,
+    "fields": {
+        "pai_nome": "Botswana",
+        "pai_nome_pt": "Botsuana",
+        "pai_sigla": "BW",
+        "pai_bacen": 1015
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 30,
+    "fields": {
+        "pai_nome": "Bouvet Island",
+        "pai_nome_pt": "Bouvet, Ilha",
+        "pai_sigla": "BV",
+        "pai_bacen": 1023
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 31,
+    "fields": {
+        "pai_nome": "British Indian Ocean Territory",
+        "pai_nome_pt": "Território Britânico do Oceano Indico",
+        "pai_sigla": "IO",
+        "pai_bacen": 7820
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 32,
+    "fields": {
+        "pai_nome": "Brunei Darussalam",
+        "pai_nome_pt": "Brunei",
+        "pai_sigla": "BN",
+        "pai_bacen": 1082
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 33,
+    "fields": {
+        "pai_nome": "Bulgaria",
+        "pai_nome_pt": "Bulgária, Republica da",
+        "pai_sigla": "BG",
+        "pai_bacen": 1112
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 34,
+    "fields": {
+        "pai_nome": "Burkina Faso",
+        "pai_nome_pt": "Burkina Faso",
+        "pai_sigla": "BF",
+        "pai_bacen": 310
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 35,
+    "fields": {
+        "pai_nome": "Burundi",
+        "pai_nome_pt": "Burundi",
+        "pai_sigla": "BI",
+        "pai_bacen": 1155
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 36,
+    "fields": {
+        "pai_nome": "Cambodia",
+        "pai_nome_pt": "Camboja",
+        "pai_sigla": "KH",
+        "pai_bacen": 1414
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 37,
+    "fields": {
+        "pai_nome": "Cameroon",
+        "pai_nome_pt": "Camarões",
+        "pai_sigla": "CM",
+        "pai_bacen": 1457
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 38,
+    "fields": {
+        "pai_nome": "Canada",
+        "pai_nome_pt": "Canada",
+        "pai_sigla": "CA",
+        "pai_bacen": 1490
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 39,
+    "fields": {
+        "pai_nome": "Cape Verde",
+        "pai_nome_pt": "Cabo Verde, Republica de",
+        "pai_sigla": "CV",
+        "pai_bacen": 1279
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 40,
+    "fields": {
+        "pai_nome": "Cayman Islands",
+        "pai_nome_pt": "Cayman, Ilhas",
+        "pai_sigla": "KY",
+        "pai_bacen": 1376
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 41,
+    "fields": {
+        "pai_nome": "Central African Republic",
+        "pai_nome_pt": "Republica Centro-Africana",
+        "pai_sigla": "CF",
+        "pai_bacen": 6408
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 42,
+    "fields": {
+        "pai_nome": "Chad",
+        "pai_nome_pt": "Chade",
+        "pai_sigla": "TD",
+        "pai_bacen": 7889
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 43,
+    "fields": {
+        "pai_nome": "Chile",
+        "pai_nome_pt": "Chile",
+        "pai_sigla": "CL",
+        "pai_bacen": 1589
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 44,
+    "fields": {
+        "pai_nome": "China",
+        "pai_nome_pt": "China, Republica Popular",
+        "pai_sigla": "CN",
+        "pai_bacen": 1600
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 45,
+    "fields": {
+        "pai_nome": "Christmas Island",
+        "pai_nome_pt": "Christmas, Ilha (Navidad)",
+        "pai_sigla": "CX",
+        "pai_bacen": 5118
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 46,
+    "fields": {
+        "pai_nome": "Cocos (Keeling) Islands",
+        "pai_nome_pt": "Cocos (Keeling), Ilhas",
+        "pai_sigla": "CC",
+        "pai_bacen": 1651
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 47,
+    "fields": {
+        "pai_nome": "Colombia",
+        "pai_nome_pt": "Colômbia",
+        "pai_sigla": "CO",
+        "pai_bacen": 1694
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 48,
+    "fields": {
+        "pai_nome": "Comoros",
+        "pai_nome_pt": "Comores, Ilhas",
+        "pai_sigla": "KM",
+        "pai_bacen": 1732
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 49,
+    "fields": {
+        "pai_nome": "Congo",
+        "pai_nome_pt": "Congo",
+        "pai_sigla": "CG",
+        "pai_bacen": 1775
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 50,
+    "fields": {
+        "pai_nome": "Congo, the Democratic Republic of the",
+        "pai_nome_pt": "Congo, Republica Democrática do",
+        "pai_sigla": "CD",
+        "pai_bacen": 8885
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 51,
+    "fields": {
+        "pai_nome": "Cook Islands",
+        "pai_nome_pt": "Cook, Ilhas",
+        "pai_sigla": "CK",
+        "pai_bacen": 1830
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 52,
+    "fields": {
+        "pai_nome": "Costa Rica",
+        "pai_nome_pt": "Costa Rica",
+        "pai_sigla": "CR",
+        "pai_bacen": 1961
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 53,
+    "fields": {
+        "pai_nome": "Cote d`Ivoire",
+        "pai_nome_pt": "Costa do Marfim",
+        "pai_sigla": "CI",
+        "pai_bacen": 1937
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 54,
+    "fields": {
+        "pai_nome": "Croatia (Hrvatska)",
+        "pai_nome_pt": "Croácia (Republica da)",
+        "pai_sigla": "HR",
+        "pai_bacen": 1953
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 55,
+    "fields": {
+        "pai_nome": "Cuba",
+        "pai_nome_pt": "Cuba",
+        "pai_sigla": "CU",
+        "pai_bacen": 1996
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 56,
+    "fields": {
+        "pai_nome": "Cyprus",
+        "pai_nome_pt": "Chipre",
+        "pai_sigla": "CY",
+        "pai_bacen": 1635
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 57,
+    "fields": {
+        "pai_nome": "Czech Republic",
+        "pai_nome_pt": "Tcheca, Republica",
+        "pai_sigla": "CZ",
+        "pai_bacen": 7919
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 58,
+    "fields": {
+        "pai_nome": "Denmark",
+        "pai_nome_pt": "Dinamarca",
+        "pai_sigla": "DK",
+        "pai_bacen": 2321
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 59,
+    "fields": {
+        "pai_nome": "Djibouti",
+        "pai_nome_pt": "Djibuti",
+        "pai_sigla": "DJ",
+        "pai_bacen": 7838
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 60,
+    "fields": {
+        "pai_nome": "Dominica",
+        "pai_nome_pt": "Dominica, Ilha",
+        "pai_sigla": "DM",
+        "pai_bacen": 2356
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 61,
+    "fields": {
+        "pai_nome": "Dominican Republic",
+        "pai_nome_pt": "Republica Dominicana",
+        "pai_sigla": "DO",
+        "pai_bacen": 6475
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 62,
+    "fields": {
+        "pai_nome": "East Timor",
+        "pai_nome_pt": "Timor Leste",
+        "pai_sigla": "TL",
+        "pai_bacen": 7951
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 63,
+    "fields": {
+        "pai_nome": "Ecuador",
+        "pai_nome_pt": "Equador",
+        "pai_sigla": "EC",
+        "pai_bacen": 2399
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 64,
+    "fields": {
+        "pai_nome": "Egypt",
+        "pai_nome_pt": "Egito",
+        "pai_sigla": "EG",
+        "pai_bacen": 2402
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 65,
+    "fields": {
+        "pai_nome": "El Salvador",
+        "pai_nome_pt": "El Salvador",
+        "pai_sigla": "SV",
+        "pai_bacen": 6874
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 66,
+    "fields": {
+        "pai_nome": "Equatorial Guinea",
+        "pai_nome_pt": "Guine-Equatorial",
+        "pai_sigla": "GQ",
+        "pai_bacen": 3310
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 67,
+    "fields": {
+        "pai_nome": "Eritrea",
+        "pai_nome_pt": "Eritreia",
+        "pai_sigla": "ER",
+        "pai_bacen": 2437
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 68,
+    "fields": {
+        "pai_nome": "Estonia",
+        "pai_nome_pt": "Estônia, Republica da",
+        "pai_sigla": "EE",
+        "pai_bacen": 2518
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 69,
+    "fields": {
+        "pai_nome": "Ethiopia",
+        "pai_nome_pt": "Etiópia",
+        "pai_sigla": "ET",
+        "pai_bacen": 2534
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 70,
+    "fields": {
+        "pai_nome": "Falkland Islands (Malvinas)",
+        "pai_nome_pt": "Falkland (Ilhas Malvinas)",
+        "pai_sigla": "FK",
+        "pai_bacen": 2550
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 71,
+    "fields": {
+        "pai_nome": "Faroe Islands",
+        "pai_nome_pt": "Feroe, Ilhas",
+        "pai_sigla": "FO",
+        "pai_bacen": 2593
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 72,
+    "fields": {
+        "pai_nome": "Fiji",
+        "pai_nome_pt": "Fiji",
+        "pai_sigla": "FJ",
+        "pai_bacen": 8702
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 73,
+    "fields": {
+        "pai_nome": "Finland",
+        "pai_nome_pt": "Finlândia",
+        "pai_sigla": "FI",
+        "pai_bacen": 2712
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 74,
+    "fields": {
+        "pai_nome": "France",
+        "pai_nome_pt": "Franca",
+        "pai_sigla": "FR",
+        "pai_bacen": 2755
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 76,
+    "fields": {
+        "pai_nome": "French Guiana",
+        "pai_nome_pt": "Guiana francesa",
+        "pai_sigla": "GF",
+        "pai_bacen": 3255
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 77,
+    "fields": {
+        "pai_nome": "French Polynesia",
+        "pai_nome_pt": "Polinésia Francesa",
+        "pai_sigla": "PF",
+        "pai_bacen": 5991
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 78,
+    "fields": {
+        "pai_nome": "French Southern Territories",
+        "pai_nome_pt": "Terras Austrais e Antárticas Francesas",
+        "pai_sigla": "TF",
+        "pai_bacen": 3607
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 79,
+    "fields": {
+        "pai_nome": "Gabon",
+        "pai_nome_pt": "Gabão",
+        "pai_sigla": "GA",
+        "pai_bacen": 2810
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 80,
+    "fields": {
+        "pai_nome": "Gambia",
+        "pai_nome_pt": "Gambia",
+        "pai_sigla": "GM",
+        "pai_bacen": 2852
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 81,
+    "fields": {
+        "pai_nome": "Georgia",
+        "pai_nome_pt": "Georgia, Republica da",
+        "pai_sigla": "GE",
+        "pai_bacen": 2917
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 82,
+    "fields": {
+        "pai_nome": "Germany",
+        "pai_nome_pt": "Alemanha",
+        "pai_sigla": "DE",
+        "pai_bacen": 230
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 83,
+    "fields": {
+        "pai_nome": "Ghana",
+        "pai_nome_pt": "Gana",
+        "pai_sigla": "GH",
+        "pai_bacen": 2895
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 84,
+    "fields": {
+        "pai_nome": "Gibraltar",
+        "pai_nome_pt": "Gibraltar",
+        "pai_sigla": "GI",
+        "pai_bacen": 2933
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 85,
+    "fields": {
+        "pai_nome": "Greece",
+        "pai_nome_pt": "Grécia",
+        "pai_sigla": "GR",
+        "pai_bacen": 3018
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 86,
+    "fields": {
+        "pai_nome": "Greenland",
+        "pai_nome_pt": "Groenlândia",
+        "pai_sigla": "GL",
+        "pai_bacen": 3050
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 87,
+    "fields": {
+        "pai_nome": "Grenada",
+        "pai_nome_pt": "Granada",
+        "pai_sigla": "GD",
+        "pai_bacen": 2976
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 88,
+    "fields": {
+        "pai_nome": "Guadeloupe",
+        "pai_nome_pt": "Guadalupe",
+        "pai_sigla": "GP",
+        "pai_bacen": 3093
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 89,
+    "fields": {
+        "pai_nome": "Guam",
+        "pai_nome_pt": "Guam",
+        "pai_sigla": "GU",
+        "pai_bacen": 3131
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 90,
+    "fields": {
+        "pai_nome": "Guatemala",
+        "pai_nome_pt": "Guatemala",
+        "pai_sigla": "GT",
+        "pai_bacen": 3174
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 91,
+    "fields": {
+        "pai_nome": "Guinea",
+        "pai_nome_pt": "Guine",
+        "pai_sigla": "GN",
+        "pai_bacen": 3298
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 92,
+    "fields": {
+        "pai_nome": "Guinea-Bissau",
+        "pai_nome_pt": "Guine-Bissau",
+        "pai_sigla": "GW",
+        "pai_bacen": 3344
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 93,
+    "fields": {
+        "pai_nome": "Guyana",
+        "pai_nome_pt": "Guiana",
+        "pai_sigla": "GY",
+        "pai_bacen": 3379
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 94,
+    "fields": {
+        "pai_nome": "Haiti",
+        "pai_nome_pt": "Haiti",
+        "pai_sigla": "HT",
+        "pai_bacen": 3417
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 95,
+    "fields": {
+        "pai_nome": "Heard and Mc Donald Islands",
+        "pai_nome_pt": "Ilha Heard e Ilhas McDonald",
+        "pai_sigla": "HM",
+        "pai_bacen": 3603
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 96,
+    "fields": {
+        "pai_nome": "Holy See (Vatican City State)",
+        "pai_nome_pt": "Vaticano, Estado da Cidade do",
+        "pai_sigla": "VA",
+        "pai_bacen": 8486
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 97,
+    "fields": {
+        "pai_nome": "Honduras",
+        "pai_nome_pt": "Honduras",
+        "pai_sigla": "HN",
+        "pai_bacen": 3450
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 98,
+    "fields": {
+        "pai_nome": "Hong Kong",
+        "pai_nome_pt": "Hong Kong",
+        "pai_sigla": "HK",
+        "pai_bacen": 3514
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 99,
+    "fields": {
+        "pai_nome": "Hungary",
+        "pai_nome_pt": "Hungria, Republica da",
+        "pai_sigla": "HU",
+        "pai_bacen": 3557
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 100,
+    "fields": {
+        "pai_nome": "Iceland",
+        "pai_nome_pt": "Islândia",
+        "pai_sigla": "IS",
+        "pai_bacen": 3794
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 101,
+    "fields": {
+        "pai_nome": "India",
+        "pai_nome_pt": "Índia",
+        "pai_sigla": "IN",
+        "pai_bacen": 3611
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 102,
+    "fields": {
+        "pai_nome": "Indonesia",
+        "pai_nome_pt": "Indonésia",
+        "pai_sigla": "ID",
+        "pai_bacen": 3654
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 103,
+    "fields": {
+        "pai_nome": "Iran (Islamic Republic of)",
+        "pai_nome_pt": "Ira, Republica Islâmica do",
+        "pai_sigla": "IR",
+        "pai_bacen": 3727
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 104,
+    "fields": {
+        "pai_nome": "Iraq",
+        "pai_nome_pt": "Iraque",
+        "pai_sigla": "IQ",
+        "pai_bacen": 3697
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 105,
+    "fields": {
+        "pai_nome": "Ireland",
+        "pai_nome_pt": "Irlanda",
+        "pai_sigla": "IE",
+        "pai_bacen": 3751
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 106,
+    "fields": {
+        "pai_nome": "Israel",
+        "pai_nome_pt": "Israel",
+        "pai_sigla": "IL",
+        "pai_bacen": 3832
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 107,
+    "fields": {
+        "pai_nome": "Italy",
+        "pai_nome_pt": "Itália",
+        "pai_sigla": "IT",
+        "pai_bacen": 3867
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 108,
+    "fields": {
+        "pai_nome": "Jamaica",
+        "pai_nome_pt": "Jamaica",
+        "pai_sigla": "JM",
+        "pai_bacen": 3913
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 109,
+    "fields": {
+        "pai_nome": "Japan",
+        "pai_nome_pt": "Japão",
+        "pai_sigla": "JP",
+        "pai_bacen": 3999
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 110,
+    "fields": {
+        "pai_nome": "Jordan",
+        "pai_nome_pt": "Jordânia",
+        "pai_sigla": "JO",
+        "pai_bacen": 4030
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 111,
+    "fields": {
+        "pai_nome": "Kazakhstan",
+        "pai_nome_pt": "Cazaquistão, Republica do",
+        "pai_sigla": "KZ",
+        "pai_bacen": 1538
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 112,
+    "fields": {
+        "pai_nome": "Kenya",
+        "pai_nome_pt": "Quênia",
+        "pai_sigla": "KE",
+        "pai_bacen": 6238
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 113,
+    "fields": {
+        "pai_nome": "Kiribati",
+        "pai_nome_pt": "Kiribati",
+        "pai_sigla": "KI",
+        "pai_bacen": 4111
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 114,
+    "fields": {
+        "pai_nome": "Korea, Democratic People`s Republic of",
+        "pai_nome_pt": "Coreia, Republica Popular Democrática da",
+        "pai_sigla": "KP",
+        "pai_bacen": 1872
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 115,
+    "fields": {
+        "pai_nome": "Korea, Republic of",
+        "pai_nome_pt": "Coreia, Republica da",
+        "pai_sigla": "KR",
+        "pai_bacen": 1902
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 116,
+    "fields": {
+        "pai_nome": "Kuwait",
+        "pai_nome_pt": "Kuwait",
+        "pai_sigla": "KW",
+        "pai_bacen": 1988
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 117,
+    "fields": {
+        "pai_nome": "Kyrgyzstan",
+        "pai_nome_pt": "Quirguiz, Republica",
+        "pai_sigla": "KG",
+        "pai_bacen": 6254
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 118,
+    "fields": {
+        "pai_nome": "Lao People`s Democratic Republic",
+        "pai_nome_pt": "Laos, Republica Popular Democrática do",
+        "pai_sigla": "LA",
+        "pai_bacen": 4200
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 119,
+    "fields": {
+        "pai_nome": "Latvia",
+        "pai_nome_pt": "Letônia, Republica da",
+        "pai_sigla": "LV",
+        "pai_bacen": 4278
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 120,
+    "fields": {
+        "pai_nome": "Lebanon",
+        "pai_nome_pt": "Líbano",
+        "pai_sigla": "LB",
+        "pai_bacen": 4316
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 121,
+    "fields": {
+        "pai_nome": "Lesotho",
+        "pai_nome_pt": "Lesoto",
+        "pai_sigla": "LS",
+        "pai_bacen": 4260
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 122,
+    "fields": {
+        "pai_nome": "Liberia",
+        "pai_nome_pt": "Libéria",
+        "pai_sigla": "LR",
+        "pai_bacen": 4340
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 123,
+    "fields": {
+        "pai_nome": "Libyan Arab Jamahiriya",
+        "pai_nome_pt": "Líbia",
+        "pai_sigla": "LY",
+        "pai_bacen": 4383
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 124,
+    "fields": {
+        "pai_nome": "Liechtenstein",
+        "pai_nome_pt": "Liechtenstein",
+        "pai_sigla": "LI",
+        "pai_bacen": 4405
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 125,
+    "fields": {
+        "pai_nome": "Lithuania",
+        "pai_nome_pt": "Lituânia, Republica da",
+        "pai_sigla": "LT",
+        "pai_bacen": 4421
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 126,
+    "fields": {
+        "pai_nome": "Luxembourg",
+        "pai_nome_pt": "Luxemburgo",
+        "pai_sigla": "LU",
+        "pai_bacen": 4456
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 127,
+    "fields": {
+        "pai_nome": "Macau",
+        "pai_nome_pt": "Macau",
+        "pai_sigla": "MO",
+        "pai_bacen": 4472
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 128,
+    "fields": {
+        "pai_nome": "North Macedonia",
+        "pai_nome_pt": "Macedônia do Norte",
+        "pai_sigla": "MK",
+        "pai_bacen": 4499
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 129,
+    "fields": {
+        "pai_nome": "Madagascar",
+        "pai_nome_pt": "Madagascar",
+        "pai_sigla": "MG",
+        "pai_bacen": 4502
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 130,
+    "fields": {
+        "pai_nome": "Malawi",
+        "pai_nome_pt": "Malavi",
+        "pai_sigla": "MW",
+        "pai_bacen": 4588
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 131,
+    "fields": {
+        "pai_nome": "Malaysia",
+        "pai_nome_pt": "Malásia",
+        "pai_sigla": "MY",
+        "pai_bacen": 4553
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 132,
+    "fields": {
+        "pai_nome": "Maldives",
+        "pai_nome_pt": "Maldivas",
+        "pai_sigla": "MV",
+        "pai_bacen": 4618
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 133,
+    "fields": {
+        "pai_nome": "Mali",
+        "pai_nome_pt": "Mali",
+        "pai_sigla": "ML",
+        "pai_bacen": 4642
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 134,
+    "fields": {
+        "pai_nome": "Malta",
+        "pai_nome_pt": "Malta",
+        "pai_sigla": "MT",
+        "pai_bacen": 4677
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 135,
+    "fields": {
+        "pai_nome": "Marshall Islands",
+        "pai_nome_pt": "Marshall, Ilhas",
+        "pai_sigla": "MH",
+        "pai_bacen": 4766
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 136,
+    "fields": {
+        "pai_nome": "Martinique",
+        "pai_nome_pt": "Martinica",
+        "pai_sigla": "MQ",
+        "pai_bacen": 4774
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 137,
+    "fields": {
+        "pai_nome": "Mauritania",
+        "pai_nome_pt": "Mauritânia",
+        "pai_sigla": "MR",
+        "pai_bacen": 4880
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 138,
+    "fields": {
+        "pai_nome": "Mauritius",
+        "pai_nome_pt": "Mauricio",
+        "pai_sigla": "MU",
+        "pai_bacen": 4855
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 139,
+    "fields": {
+        "pai_nome": "Mayotte",
+        "pai_nome_pt": "Mayotte (Ilhas Francesas)",
+        "pai_sigla": "YT",
+        "pai_bacen": 4885
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 140,
+    "fields": {
+        "pai_nome": "Mexico",
+        "pai_nome_pt": "México",
+        "pai_sigla": "MX",
+        "pai_bacen": 4936
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 141,
+    "fields": {
+        "pai_nome": "Micronesia, Federated States of",
+        "pai_nome_pt": "Micronesia",
+        "pai_sigla": "FM",
+        "pai_bacen": 4995
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 142,
+    "fields": {
+        "pai_nome": "Moldova, Republic of",
+        "pai_nome_pt": "Moldávia, Republica da",
+        "pai_sigla": "MD",
+        "pai_bacen": 4944
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 143,
+    "fields": {
+        "pai_nome": "Monaco",
+        "pai_nome_pt": "Mônaco",
+        "pai_sigla": "MC",
+        "pai_bacen": 4952
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 144,
+    "fields": {
+        "pai_nome": "Mongolia",
+        "pai_nome_pt": "Mongólia",
+        "pai_sigla": "MN",
+        "pai_bacen": 4979
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 145,
+    "fields": {
+        "pai_nome": "Montserrat",
+        "pai_nome_pt": "Montserrat, Ilhas",
+        "pai_sigla": "MS",
+        "pai_bacen": 5010
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 146,
+    "fields": {
+        "pai_nome": "Morocco",
+        "pai_nome_pt": "Marrocos",
+        "pai_sigla": "MA",
+        "pai_bacen": 4740
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 147,
+    "fields": {
+        "pai_nome": "Mozambique",
+        "pai_nome_pt": "Moçambique",
+        "pai_sigla": "MZ",
+        "pai_bacen": 5053
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 148,
+    "fields": {
+        "pai_nome": "Myanmar",
+        "pai_nome_pt": "Mianmar (Birmânia)",
+        "pai_sigla": "MM",
+        "pai_bacen": 930
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 149,
+    "fields": {
+        "pai_nome": "Namibia",
+        "pai_nome_pt": "Namíbia",
+        "pai_sigla": "NA",
+        "pai_bacen": 5070
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 150,
+    "fields": {
+        "pai_nome": "Nauru",
+        "pai_nome_pt": "Nauru",
+        "pai_sigla": "NR",
+        "pai_bacen": 5088
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 151,
+    "fields": {
+        "pai_nome": "Nepal",
+        "pai_nome_pt": "Nepal",
+        "pai_sigla": "NP",
+        "pai_bacen": 5177
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 152,
+    "fields": {
+        "pai_nome": "Netherlands",
+        "pai_nome_pt": "Países Baixos (Holanda)",
+        "pai_sigla": "NL",
+        "pai_bacen": 5738
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 154,
+    "fields": {
+        "pai_nome": "New Caledonia",
+        "pai_nome_pt": "Nova Caledonia",
+        "pai_sigla": "NC",
+        "pai_bacen": 5428
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 155,
+    "fields": {
+        "pai_nome": "New Zealand",
+        "pai_nome_pt": "Nova Zelândia",
+        "pai_sigla": "NZ",
+        "pai_bacen": 5487
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 156,
+    "fields": {
+        "pai_nome": "Nicaragua",
+        "pai_nome_pt": "Nicarágua",
+        "pai_sigla": "NI",
+        "pai_bacen": 5215
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 157,
+    "fields": {
+        "pai_nome": "Niger",
+        "pai_nome_pt": "Níger",
+        "pai_sigla": "NE",
+        "pai_bacen": 5258
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 158,
+    "fields": {
+        "pai_nome": "Nigeria",
+        "pai_nome_pt": "Nigéria",
+        "pai_sigla": "NG",
+        "pai_bacen": 5282
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 159,
+    "fields": {
+        "pai_nome": "Niue",
+        "pai_nome_pt": "Niue, Ilha",
+        "pai_sigla": "NU",
+        "pai_bacen": 5312
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 160,
+    "fields": {
+        "pai_nome": "Norfolk Island",
+        "pai_nome_pt": "Norfolk, Ilha",
+        "pai_sigla": "NF",
+        "pai_bacen": 5355
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 161,
+    "fields": {
+        "pai_nome": "Northern Mariana Islands",
+        "pai_nome_pt": "Marianas do Norte",
+        "pai_sigla": "MP",
+        "pai_bacen": 4723
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 162,
+    "fields": {
+        "pai_nome": "Norway",
+        "pai_nome_pt": "Noruega",
+        "pai_sigla": "NO",
+        "pai_bacen": 5380
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 163,
+    "fields": {
+        "pai_nome": "Oman",
+        "pai_nome_pt": "Oma",
+        "pai_sigla": "OM",
+        "pai_bacen": 5568
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 164,
+    "fields": {
+        "pai_nome": "Pakistan",
+        "pai_nome_pt": "Paquistão",
+        "pai_sigla": "PK",
+        "pai_bacen": 5762
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 165,
+    "fields": {
+        "pai_nome": "Palau",
+        "pai_nome_pt": "Palau",
+        "pai_sigla": "PW",
+        "pai_bacen": 5754
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 166,
+    "fields": {
+        "pai_nome": "Panama",
+        "pai_nome_pt": "Panamá",
+        "pai_sigla": "PA",
+        "pai_bacen": 5800
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 167,
+    "fields": {
+        "pai_nome": "Papua New Guinea",
+        "pai_nome_pt": "Papua Nova Guine",
+        "pai_sigla": "PG",
+        "pai_bacen": 5452
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 168,
+    "fields": {
+        "pai_nome": "Paraguay",
+        "pai_nome_pt": "Paraguai",
+        "pai_sigla": "PY",
+        "pai_bacen": 5860
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 169,
+    "fields": {
+        "pai_nome": "Peru",
+        "pai_nome_pt": "Peru",
+        "pai_sigla": "PE",
+        "pai_bacen": 5894
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 170,
+    "fields": {
+        "pai_nome": "Philippines",
+        "pai_nome_pt": "Filipinas",
+        "pai_sigla": "PH",
+        "pai_bacen": 2674
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 171,
+    "fields": {
+        "pai_nome": "Pitcairn",
+        "pai_nome_pt": "Pitcairn, Ilha",
+        "pai_sigla": "PN",
+        "pai_bacen": 5932
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 172,
+    "fields": {
+        "pai_nome": "Poland",
+        "pai_nome_pt": "Polônia, Republica da",
+        "pai_sigla": "PL",
+        "pai_bacen": 6033
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 173,
+    "fields": {
+        "pai_nome": "Portugal",
+        "pai_nome_pt": "Portugal",
+        "pai_sigla": "PT",
+        "pai_bacen": 6076
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 174,
+    "fields": {
+        "pai_nome": "Puerto Rico",
+        "pai_nome_pt": "Porto Rico",
+        "pai_sigla": "PR",
+        "pai_bacen": 6114
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 175,
+    "fields": {
+        "pai_nome": "Qatar",
+        "pai_nome_pt": "Catar",
+        "pai_sigla": "QA",
+        "pai_bacen": 1546
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 176,
+    "fields": {
+        "pai_nome": "Reunion",
+        "pai_nome_pt": "Reunião, Ilha",
+        "pai_sigla": "RE",
+        "pai_bacen": 6602
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 177,
+    "fields": {
+        "pai_nome": "Romania",
+        "pai_nome_pt": "Romênia",
+        "pai_sigla": "RO",
+        "pai_bacen": 6700
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 178,
+    "fields": {
+        "pai_nome": "Russian Federation",
+        "pai_nome_pt": "Rússia, Federação da",
+        "pai_sigla": "RU",
+        "pai_bacen": 6769
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 179,
+    "fields": {
+        "pai_nome": "Rwanda",
+        "pai_nome_pt": "Ruanda",
+        "pai_sigla": "RW",
+        "pai_bacen": 6750
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 180,
+    "fields": {
+        "pai_nome": "Saint Kitts and Nevis",
+        "pai_nome_pt": "São Cristovão e Neves, Ilhas",
+        "pai_sigla": "KN",
+        "pai_bacen": 6955
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 181,
+    "fields": {
+        "pai_nome": "Saint LUCIA",
+        "pai_nome_pt": "Santa Lucia",
+        "pai_sigla": "LC",
+        "pai_bacen": 7153
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 182,
+    "fields": {
+        "pai_nome": "Saint Vincent and the Grenadines",
+        "pai_nome_pt": "São Vicente e Granadinas",
+        "pai_sigla": "VC",
+        "pai_bacen": 7056
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 183,
+    "fields": {
+        "pai_nome": "Samoa",
+        "pai_nome_pt": "Samoa",
+        "pai_sigla": "WS",
+        "pai_bacen": 6904
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 184,
+    "fields": {
+        "pai_nome": "San Marino",
+        "pai_nome_pt": "San Marino",
+        "pai_sigla": "SM",
+        "pai_bacen": 6971
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 185,
+    "fields": {
+        "pai_nome": "Sao Tome and Principe",
+        "pai_nome_pt": "São Tome e Príncipe, Ilhas",
+        "pai_sigla": "ST",
+        "pai_bacen": 7200
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 186,
+    "fields": {
+        "pai_nome": "Saudi Arabia",
+        "pai_nome_pt": "Arábia Saudita",
+        "pai_sigla": "SA",
+        "pai_bacen": 531
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 187,
+    "fields": {
+        "pai_nome": "Senegal",
+        "pai_nome_pt": "Senegal",
+        "pai_sigla": "SN",
+        "pai_bacen": 7285
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 188,
+    "fields": {
+        "pai_nome": "Seychelles",
+        "pai_nome_pt": "Seychelles",
+        "pai_sigla": "SC",
+        "pai_bacen": 7315
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 189,
+    "fields": {
+        "pai_nome": "Sierra Leone",
+        "pai_nome_pt": "Serra Leoa",
+        "pai_sigla": "SL",
+        "pai_bacen": 7358
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 190,
+    "fields": {
+        "pai_nome": "Singapore",
+        "pai_nome_pt": "Cingapura",
+        "pai_sigla": "SG",
+        "pai_bacen": 7412
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 191,
+    "fields": {
+        "pai_nome": "Slovakia (Slovak Republic)",
+        "pai_nome_pt": "Eslovaca, Republica",
+        "pai_sigla": "SK",
+        "pai_bacen": 2470
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 192,
+    "fields": {
+        "pai_nome": "Slovenia",
+        "pai_nome_pt": "Eslovênia, Republica da",
+        "pai_sigla": "SI",
+        "pai_bacen": 2461
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 193,
+    "fields": {
+        "pai_nome": "Solomon Islands",
+        "pai_nome_pt": "Salomão, Ilhas",
+        "pai_sigla": "SB",
+        "pai_bacen": 6777
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 194,
+    "fields": {
+        "pai_nome": "Somalia",
+        "pai_nome_pt": "Somalia",
+        "pai_sigla": "SO",
+        "pai_bacen": 7480
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 195,
+    "fields": {
+        "pai_nome": "South Africa",
+        "pai_nome_pt": "África do Sul",
+        "pai_sigla": "ZA",
+        "pai_bacen": 7560
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 196,
+    "fields": {
+        "pai_nome": "South Georgia and the South Sandwich Islands",
+        "pai_nome_pt": "Ilhas Geórgia do Sul e Sandwich do Sul",
+        "pai_sigla": "GS",
+        "pai_bacen": 2925
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 197,
+    "fields": {
+        "pai_nome": "Spain",
+        "pai_nome_pt": "Espanha",
+        "pai_sigla": "ES",
+        "pai_bacen": 2453
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 198,
+    "fields": {
+        "pai_nome": "Sri Lanka",
+        "pai_nome_pt": "Sri Lanka",
+        "pai_sigla": "LK",
+        "pai_bacen": 7501
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 199,
+    "fields": {
+        "pai_nome": "St. Helena",
+        "pai_nome_pt": "Santa Helena",
+        "pai_sigla": "SH",
+        "pai_bacen": 7102
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 200,
+    "fields": {
+        "pai_nome": "St. Pierre and Miquelon",
+        "pai_nome_pt": "São Pedro e Miquelon",
+        "pai_sigla": "PM",
+        "pai_bacen": 7005
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 201,
+    "fields": {
+        "pai_nome": "Sudan",
+        "pai_nome_pt": "Sudão",
+        "pai_sigla": "SD",
+        "pai_bacen": 7595
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 202,
+    "fields": {
+        "pai_nome": "Suriname",
+        "pai_nome_pt": "Suriname",
+        "pai_sigla": "SR",
+        "pai_bacen": 7706
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 203,
+    "fields": {
+        "pai_nome": "Svalbard and Jan Mayen Islands",
+        "pai_nome_pt": "Svalbard e Jan Mayen",
+        "pai_sigla": "SJ",
+        "pai_bacen": 7552
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 204,
+    "fields": {
+        "pai_nome": "Swaziland",
+        "pai_nome_pt": "Eswatini",
+        "pai_sigla": "SZ",
+        "pai_bacen": 7544
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 205,
+    "fields": {
+        "pai_nome": "Sweden",
+        "pai_nome_pt": "Suécia",
+        "pai_sigla": "SE",
+        "pai_bacen": 7641
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 206,
+    "fields": {
+        "pai_nome": "Switzerland",
+        "pai_nome_pt": "Suíça",
+        "pai_sigla": "CH",
+        "pai_bacen": 7676
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 207,
+    "fields": {
+        "pai_nome": "Syrian Arab Republic",
+        "pai_nome_pt": "Síria, Republica Árabe da",
+        "pai_sigla": "SY",
+        "pai_bacen": 7447
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 208,
+    "fields": {
+        "pai_nome": "Taiwan, Province of China",
+        "pai_nome_pt": "Formosa (Taiwan)",
+        "pai_sigla": "TW",
+        "pai_bacen": 1619
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 209,
+    "fields": {
+        "pai_nome": "Tajikistan",
+        "pai_nome_pt": "Tadjiquistao, Republica do",
+        "pai_sigla": "TJ",
+        "pai_bacen": 7722
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 210,
+    "fields": {
+        "pai_nome": "Tanzania, United Republic of",
+        "pai_nome_pt": "Tanzânia, Republica Unida da",
+        "pai_sigla": "TZ",
+        "pai_bacen": 7803
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 211,
+    "fields": {
+        "pai_nome": "Thailand",
+        "pai_nome_pt": "Tailândia",
+        "pai_sigla": "TH",
+        "pai_bacen": 7765
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 212,
+    "fields": {
+        "pai_nome": "Togo",
+        "pai_nome_pt": "Togo",
+        "pai_sigla": "TG",
+        "pai_bacen": 8001
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 213,
+    "fields": {
+        "pai_nome": "Tokelau",
+        "pai_nome_pt": "Toquelau, Ilhas",
+        "pai_sigla": "TK",
+        "pai_bacen": 8052
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 214,
+    "fields": {
+        "pai_nome": "Tonga",
+        "pai_nome_pt": "Tonga",
+        "pai_sigla": "TO",
+        "pai_bacen": 8109
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 215,
+    "fields": {
+        "pai_nome": "Trinidad and Tobago",
+        "pai_nome_pt": "Trinidad e Tobago",
+        "pai_sigla": "TT",
+        "pai_bacen": 8150
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 216,
+    "fields": {
+        "pai_nome": "Tunisia",
+        "pai_nome_pt": "Tunísia",
+        "pai_sigla": "TN",
+        "pai_bacen": 8206
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 217,
+    "fields": {
+        "pai_nome": "Turkey",
+        "pai_nome_pt": "Turquia",
+        "pai_sigla": "TR",
+        "pai_bacen": 8273
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 218,
+    "fields": {
+        "pai_nome": "Turkmenistan",
+        "pai_nome_pt": "Turcomenistão, Republica do",
+        "pai_sigla": "TM",
+        "pai_bacen": 8249
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 219,
+    "fields": {
+        "pai_nome": "Turks and Caicos Islands",
+        "pai_nome_pt": "Turcas e Caicos, Ilhas",
+        "pai_sigla": "TC",
+        "pai_bacen": 8230
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 220,
+    "fields": {
+        "pai_nome": "Tuvalu",
+        "pai_nome_pt": "Tuvalu",
+        "pai_sigla": "TV",
+        "pai_bacen": 8281
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 221,
+    "fields": {
+        "pai_nome": "Uganda",
+        "pai_nome_pt": "Uganda",
+        "pai_sigla": "UG",
+        "pai_bacen": 8338
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 222,
+    "fields": {
+        "pai_nome": "Ukraine",
+        "pai_nome_pt": "Ucrânia",
+        "pai_sigla": "UA",
+        "pai_bacen": 8311
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 223,
+    "fields": {
+        "pai_nome": "United Arab Emirates",
+        "pai_nome_pt": "Emirados Árabes Unidos",
+        "pai_sigla": "AE",
+        "pai_bacen": 2445
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 224,
+    "fields": {
+        "pai_nome": "United Kingdom",
+        "pai_nome_pt": "Reino Unido",
+        "pai_sigla": "GB",
+        "pai_bacen": 6289
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 225,
+    "fields": {
+        "pai_nome": "United States",
+        "pai_nome_pt": "Estados Unidos",
+        "pai_sigla": "US",
+        "pai_bacen": 2496
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 226,
+    "fields": {
+        "pai_nome": "United States Minor Outlying Islands",
+        "pai_nome_pt": "Ilhas Menores Distantes dos Estados Unidos",
+        "pai_sigla": "UM",
+        "pai_bacen": 18664
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 227,
+    "fields": {
+        "pai_nome": "Uruguay",
+        "pai_nome_pt": "Uruguai",
+        "pai_sigla": "UY",
+        "pai_bacen": 8451
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 228,
+    "fields": {
+        "pai_nome": "Uzbekistan",
+        "pai_nome_pt": "Uzbequistão, Republica do",
+        "pai_sigla": "UZ",
+        "pai_bacen": 8478
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 229,
+    "fields": {
+        "pai_nome": "Vanuatu",
+        "pai_nome_pt": "Vanuatu",
+        "pai_sigla": "VU",
+        "pai_bacen": 5517
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 230,
+    "fields": {
+        "pai_nome": "Venezuela",
+        "pai_nome_pt": "Venezuela",
+        "pai_sigla": "VE",
+        "pai_bacen": 8508
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 231,
+    "fields": {
+        "pai_nome": "Viet Nam",
+        "pai_nome_pt": "Vietnã",
+        "pai_sigla": "VN",
+        "pai_bacen": 8583
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 232,
+    "fields": {
+        "pai_nome": "Virgin Islands (British)",
+        "pai_nome_pt": "Virgens, Ilhas (Britânicas)",
+        "pai_sigla": "VG",
+        "pai_bacen": 8630
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 233,
+    "fields": {
+        "pai_nome": "Virgin Islands (U.S.)",
+        "pai_nome_pt": "Virgens, Ilhas (E.U.A.)",
+        "pai_sigla": "VI",
+        "pai_bacen": 8664
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 234,
+    "fields": {
+        "pai_nome": "Wallis and Futuna Islands",
+        "pai_nome_pt": "Wallis e Futuna, Ilhas",
+        "pai_sigla": "WF",
+        "pai_bacen": 8753
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 235,
+    "fields": {
+        "pai_nome": "Western Sahara",
+        "pai_nome_pt": "Saara Ocidental",
+        "pai_sigla": "EH",
+        "pai_bacen": 6858
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 236,
+    "fields": {
+        "pai_nome": "Yemen",
+        "pai_nome_pt": "Iémen",
+        "pai_sigla": "YE",
+        "pai_bacen": 3573
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 237,
+    "fields": {
+        "pai_nome": "Yugoslavia",
+        "pai_nome_pt": "Iugoslávia, República Fed. da",
+        "pai_sigla": "YU",
+        "pai_bacen": 3883
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 238,
+    "fields": {
+        "pai_nome": "Zambia",
+        "pai_nome_pt": "Zâmbia",
+        "pai_sigla": "ZM",
+        "pai_bacen": 8907
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 239,
+    "fields": {
+        "pai_nome": "Zimbabwe",
+        "pai_nome_pt": "Zimbabue",
+        "pai_sigla": "ZW",
+        "pai_bacen": 6653
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 240,
+    "fields": {
+        "pai_nome": "Bailiwick of Guernsey",
+        "pai_nome_pt": "Guernsey, Ilha do Canal (Inclui Alderney e Sark)",
+        "pai_sigla": "GG",
+        "pai_bacen": 1504
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 241,
+    "fields": {
+        "pai_nome": "Bailiwick of Jersey",
+        "pai_nome_pt": "Jersey, Ilha do Canal",
+        "pai_sigla": "JE",
+        "pai_bacen": 1508
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 243,
+    "fields": {
+        "pai_nome": "Isle of Man",
+        "pai_nome_pt": "Man, Ilha de",
+        "pai_sigla": "IM",
+        "pai_bacen": 3595
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 246,
+    "fields": {
+        "pai_nome": "Crna Gora (Montenegro)",
+        "pai_nome_pt": "Montenegro",
+        "pai_sigla": "ME",
+        "pai_bacen": 4985
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 247,
+    "fields": {
+        "pai_nome": "SÉRVIA",
+        "pai_nome_pt": "Republika Srbija",
+        "pai_sigla": "RS",
+        "pai_bacen": 7370
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 248,
+    "fields": {
+        "pai_nome": "Republic of South Sudan",
+        "pai_nome_pt": "Sudao do Sul",
+        "pai_sigla": "SS",
+        "pai_bacen": 7600
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 249,
+    "fields": {
+        "pai_nome": "Zona del Canal de Panamá",
+        "pai_nome_pt": "Zona do Canal do Panamá",
+        "pai_sigla": null,
+        "pai_bacen": 8958
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 252,
+    "fields": {
+        "pai_nome": "Dawlat Filasṭīn",
+        "pai_nome_pt": "Palestina",
+        "pai_sigla": "PS",
+        "pai_bacen": 5780
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 253,
+    "fields": {
+        "pai_nome": "Åland Islands",
+        "pai_nome_pt": "Aland, Ilhas",
+        "pai_sigla": "AX",
+        "pai_bacen": 153
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 254,
+    "fields": {
+        "pai_nome": "Saint Barthélemy",
+        "pai_nome_pt": "Coletividade de São Bartolomeu",
+        "pai_sigla": "BL",
+        "pai_bacen": 3598
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 255,
+    "fields": {
+        "pai_nome": "Curaçao",
+        "pai_nome_pt": "Curaçao",
+        "pai_sigla": "CW",
+        "pai_bacen": 200
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 256,
+    "fields": {
+        "pai_nome": "Saint Martin",
+        "pai_nome_pt": "São Martinho, Ilha de (Parte Francesa)",
+        "pai_sigla": "SM",
+        "pai_bacen": 6980
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 258,
+    "fields": {
+        "pai_nome": "Bonaire",
+        "pai_nome_pt": "Bonaire",
+        "pai_sigla": "AN",
+        "pai_bacen": 990
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 259,
+    "fields": {
+        "pai_nome": "Antartica",
+        "pai_nome_pt": "Antartica",
+        "pai_sigla": "AQ",
+        "pai_bacen": 420
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 260,
+    "fields": {
+        "pai_nome": "Heard Island and McDonald Islands",
+        "pai_nome_pt": "Ilha Herad e Ilhas Macdonald",
+        "pai_sigla": "AU",
+        "pai_bacen": 3433
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 261,
+    "fields": {
+        "pai_nome": "Saint-Barthélemy",
+        "pai_nome_pt": "São Bartolomeu",
+        "pai_sigla": "FR",
+        "pai_bacen": 6939
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 262,
+    "fields": {
+        "pai_nome": "Saint Martin",
+        "pai_nome_pt": "São Martinho, Ilha de (Parte Holandesa)",
+        "pai_sigla": "SM",
+        "pai_bacen": 6998
+    }
+},
+{
+    "model": "region.countrymodel",
+    "pk": 263,
+    "fields": {
+        "pai_nome": "Terres Australes et Antarctiques Françaises",
+        "pai_nome_pt": "Terras Austrais e Antárcticas Francesas",
+        "pai_sigla": "TF",
+        "pai_bacen": 7811
+    }
+}
+]

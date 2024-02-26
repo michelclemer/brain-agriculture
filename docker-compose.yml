@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+    command: >
+          sh -c " poetry run python manage.py wait_for_db &&
+                  poetry run python manage.py migrate &&
+                  poetry run python manage.py loaddata src/apps/agriculture/fixtures/PlantedCropsModel.json
+                  poetry run python manage.py loaddata src/apps/region/fixtures/CountryModel.json
+                  poetry run python manage.py loaddata src/apps/region/fixtures/StateModel.json
+                  poetry run python manage.py loaddata src/apps/region/fixtures/CityModel.json
+                  poetry run uwsgi --http :8000 --workers 4 --master --enable-threads --module src.config.wsgi --buffer-size 16384
+                  
+                "
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/app
+    environment:
+      - SECRET_KEY=${SECRET_KEY}
+      - DEBUG=1
+      - DB_HOST=db
+      - DB_NAME=${DB_NAME}
+      - DB_USER=${DB_USER}
+      - DB_PASS=${DB_PASS}
+    depends_on:
+      - db
+
+  db:
+    image: postgres:13-alpine
+    environment:
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASS}

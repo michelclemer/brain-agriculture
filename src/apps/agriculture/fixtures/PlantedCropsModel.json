@@ -1,0 +1,37 @@
+[
+{
+    "model": "agriculture.plantedcropsmodel",
+    "pk": 1,
+    "fields": {
+        "pcr_label": "Soja"
+    }
+},
+{
+    "model": "agriculture.plantedcropsmodel",
+    "pk": 2,
+    "fields": {
+        "pcr_label": "Milho"
+    }
+},
+{
+    "model": "agriculture.plantedcropsmodel",
+    "pk": 3,
+    "fields": {
+        "pcr_label": "Algodão"
+    }
+},
+{
+    "model": "agriculture.plantedcropsmodel",
+    "pk": 4,
+    "fields": {
+        "pcr_label": "Café"
+    }
+},
+{
+    "model": "agriculture.plantedcropsmodel",
+    "pk": 5,
+    "fields": {
+        "pcr_label": "Cana de Açucar"
+    }
+}
+]

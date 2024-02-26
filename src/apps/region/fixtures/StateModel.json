@@ -1,0 +1,310 @@
+[
+{
+    "model": "region.statemodel",
+    "pk": 1,
+    "fields": {
+        "std_nome": "Acre",
+        "std_uf": "AC",
+        "std_ibge": 12,
+        "pai_id": 1,
+        "std_ddd": "[68]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 2,
+    "fields": {
+        "std_nome": "Alagoas",
+        "std_uf": "AL",
+        "std_ibge": 27,
+        "pai_id": 1,
+        "std_ddd": "[82]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 3,
+    "fields": {
+        "std_nome": "Amazonas",
+        "std_uf": "AM",
+        "std_ibge": 13,
+        "pai_id": 1,
+        "std_ddd": "[97,92]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 4,
+    "fields": {
+        "std_nome": "Amapá",
+        "std_uf": "AP",
+        "std_ibge": 16,
+        "pai_id": 1,
+        "std_ddd": "[96]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 5,
+    "fields": {
+        "std_nome": "Bahia",
+        "std_uf": "BA",
+        "std_ibge": 29,
+        "pai_id": 1,
+        "std_ddd": "[77,75,73,74,71]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 6,
+    "fields": {
+        "std_nome": "Ceará",
+        "std_uf": "CE",
+        "std_ibge": 23,
+        "pai_id": 1,
+        "std_ddd": "[88,85]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 7,
+    "fields": {
+        "std_nome": "Distrito Federal",
+        "std_uf": "DF",
+        "std_ibge": 53,
+        "pai_id": 1,
+        "std_ddd": "[61]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 8,
+    "fields": {
+        "std_nome": "Espírito Santo",
+        "std_uf": "ES",
+        "std_ibge": 32,
+        "pai_id": 1,
+        "std_ddd": "[28,27]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 9,
+    "fields": {
+        "std_nome": "Goiás",
+        "std_uf": "GO",
+        "std_ibge": 52,
+        "pai_id": 1,
+        "std_ddd": "[62,64,61]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 10,
+    "fields": {
+        "std_nome": "Maranhão",
+        "std_uf": "MA",
+        "std_ibge": 21,
+        "pai_id": 1,
+        "std_ddd": "[99,98]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 11,
+    "fields": {
+        "std_nome": "Minas Gerais",
+        "std_uf": "MG",
+        "std_ibge": 31,
+        "pai_id": 1,
+        "std_ddd": "[34,37,31,33,35,38,32]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 12,
+    "fields": {
+        "std_nome": "Mato Grosso do Sul",
+        "std_uf": "MS",
+        "std_ibge": 50,
+        "pai_id": 1,
+        "std_ddd": "[67]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 13,
+    "fields": {
+        "std_nome": "Mato Grosso",
+        "std_uf": "MT",
+        "std_ibge": 51,
+        "pai_id": 1,
+        "std_ddd": "[65,66]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 14,
+    "fields": {
+        "std_nome": "Pará",
+        "std_uf": "PA",
+        "std_ibge": 15,
+        "pai_id": 1,
+        "std_ddd": "[91,94,93]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 15,
+    "fields": {
+        "std_nome": "Paraíba",
+        "std_uf": "PB",
+        "std_ibge": 25,
+        "pai_id": 1,
+        "std_ddd": "[83]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 16,
+    "fields": {
+        "std_nome": "Pernambuco",
+        "std_uf": "PE",
+        "std_ibge": 26,
+        "pai_id": 1,
+        "std_ddd": "[81,87]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 17,
+    "fields": {
+        "std_nome": "Piauí",
+        "std_uf": "PI",
+        "std_ibge": 22,
+        "pai_id": 1,
+        "std_ddd": "[89,86]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 18,
+    "fields": {
+        "std_nome": "Paraná",
+        "std_uf": "PR",
+        "std_ibge": 41,
+        "pai_id": 1,
+        "std_ddd": "[43,41,42,44,45,46]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 19,
+    "fields": {
+        "std_nome": "Rio de Janeiro",
+        "std_uf": "RJ",
+        "std_ibge": 33,
+        "pai_id": 1,
+        "std_ddd": "[24,22,21]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 20,
+    "fields": {
+        "std_nome": "Rio Grande do Norte",
+        "std_uf": "RN",
+        "std_ibge": 24,
+        "pai_id": 1,
+        "std_ddd": "[84]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 21,
+    "fields": {
+        "std_nome": "Rondônia",
+        "std_uf": "RO",
+        "std_ibge": 11,
+        "pai_id": 1,
+        "std_ddd": "[69]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 22,
+    "fields": {
+        "std_nome": "Roraima",
+        "std_uf": "RR",
+        "std_ibge": 14,
+        "pai_id": 1,
+        "std_ddd": "[95]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 23,
+    "fields": {
+        "std_nome": "Rio Grande do Sul",
+        "std_uf": "RS",
+        "std_ibge": 43,
+        "pai_id": 1,
+        "std_ddd": "[53,54,55,51]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 24,
+    "fields": {
+        "std_nome": "Santa Catarina",
+        "std_uf": "SC",
+        "std_ibge": 42,
+        "pai_id": 1,
+        "std_ddd": "[47,48,49]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 25,
+    "fields": {
+        "std_nome": "Sergipe",
+        "std_uf": "SE",
+        "std_ibge": 28,
+        "pai_id": 1,
+        "std_ddd": "[79]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 26,
+    "fields": {
+        "std_nome": "São Paulo",
+        "std_uf": "SP",
+        "std_ibge": 35,
+        "pai_id": 1,
+        "std_ddd": "[11,12,13,14,15,16,17,18,19]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 27,
+    "fields": {
+        "std_nome": "Tocantins",
+        "std_uf": "TO",
+        "std_ibge": 17,
+        "pai_id": 1,
+        "std_ddd": "[63]"
+    }
+},
+{
+    "model": "region.statemodel",
+    "pk": 99,
+    "fields": {
+        "std_nome": "Exterior",
+        "std_uf": "EX",
+        "std_ibge": 99,
+        "pai_id": null,
+        "std_ddd": null
+    }
+}
+]

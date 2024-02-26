@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "brain agriculture"
+version = "0.1.0"
+description = ""
+authors = ["Michel Clemer Monteiro Deolino <michelclemer5@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+uwsgi = "*"
+django = "^5.0.2"
+psycopg2 = "^2.9.9"
+drf-yasg = "^1.21.7"
+django-filter = "^23.5"
+validate-docbr = "^1.10.0"
+djangorestframework-simplejwt = "^5.3.1"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
