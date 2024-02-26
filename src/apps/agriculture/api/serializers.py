@@ -34,6 +34,8 @@ class AgricultureSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
     def validate(self, attrs):
+        if attrs.get('agr_arable_are_hectares') + attrs.get('agr_vegetable_area_hectares') > attrs.get('agr_total_area_hectares'):
+            raise serializers.ValidationError("A soma das áreas não pode exceder a área total da fazenda.")
         if attrs.get("agr_cnpf") and not validate_cpf_cnpj(attrs.get("agr_cnpf"), "cpf"):
             raise serializers.ValidationError({"agr_cnpf": "CPF inválido."})
         if attrs.get("agr_cnpj") and not validate_cpf_cnpj(attrs.get("agr_cnpj"), "cnpj"):
