@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto é desenvolvido com o intuito de [descrever brevemente o objetivo principal e o problema que ele resolve]. Utilizando um conjunto robusto de tecnologias, incluindo Django, Swagger, Poetry, Docker e PostgreSQL, ele oferece uma solução eficaz e escalável para [descrever brevemente o tipo de aplicação, como aplicações web, APIs, etc.].
+Este projeto é desenvolvido com o intuito de demonstrar um cadastro de proprietários de fazendas e suas terras. Utilizando um conjunto robusto de tecnologias, incluindo Django, Swagger, Poetry, Docker e PostgreSQL, ele oferece uma solução eficaz e escalável para API.
 
 ## Índice
 
